@@ -1,0 +1,13 @@
+.canvas {
+  border: 2px solid red;
+  position: relative;
+  width: 500px;
+  height: 500px;
+}
+
+.rec {
+  position: absolute;
+  border: 2px solid blue;
+  width: 100px;
+  height: 200px;
+}
